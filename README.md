@@ -2,6 +2,8 @@
 
 Me chamo **Lucas de Melo Aguirre**, sou um Desenvolvedor Full Stack que vive em Curitiba (PR), Brasil.
 
+Github em atualização, devido às empresas que trabalhei usarem apenas repositórios privados estou postando somente projetos pessoais momentâneamente.
+
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo (2016/2019) e trabalho como desenvolvedor web desde 2016. Nesse período, adquiri habilidades em gerenciamento de projetos, desenvolvimento em PHP (utilizando Laravel e Zend Expressive 3), criação de interfaces com HTML, CSS e Javascript (utilizando nativo, Vue.js e React) e versionamento de código utilizando GIT.
 
 Tenho conhecimento e experiência com: PHP (Laravel e Zend Expressive 3), Serviços AWS (S3, Lambda, CodeBuild, CodeDeploy, CodePipeline e EC2), MySQL, Microserviços, HTML, CSS, Javascript (Vue.js e React) e desenvolvimento mobile utilizando Flutter.
