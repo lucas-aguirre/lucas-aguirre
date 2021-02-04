@@ -10,8 +10,6 @@ Tenho conhecimento e experiência com: PHP (Laravel e Zend Expressive 3), Servi�
 
 Além das habilidades técnicas, possuo facilidade em falar em público e expressar minha opinião, costumo participar de muitos workshops e meetups para desenvolver meu conhecimento e colaborar com a comunidade de TI.
 
-Atualmente, trabalho na **Grupo A Educação (https://www.grupoa.com.br/)**.
-
 ### ⚒&nbsp;&nbsp;&nbsp;Ferramentas que utilizo no dia a dia
 <br><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="PHP" title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
