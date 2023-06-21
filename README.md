@@ -1,4 +1,4 @@
-### 👋&nbsp;&nbsp;Olá!
+### 👋&nbsp;&nbsp;Hello!
 
 I am a backend developer with 5 years of experience in the field. Currently, I work using technologies such as PHP/NodeJS, MongoDB, GraphQL and PostgreeSQL, as well as AWS services. Throughout my career, I have had the opportunity to work on challenging projects, including the restructuring of a client integration platform and the creation of a mobile application.
 
