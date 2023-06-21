@@ -1,14 +1,12 @@
 ### 👋&nbsp;&nbsp;Olá!
 
-Me chamo **Lucas de Melo Aguirre**, sou um Desenvolvedor Full Stack que vive em Curitiba (PR), Brasil.
+I am a backend developer with 5 years of experience in the field. Currently, I work using technologies such as PHP/NodeJS, MongoDB, GraphQL and PostgreeSQL, as well as AWS services. Throughout my career, I have had the opportunity to work on challenging projects, including the restructuring of a client integration platform and the creation of a mobile application.
 
-Github em atualização, devido às empresas que trabalhei usarem apenas repositórios privados estou postando somente projetos pessoais momentâneamente.
+My key skills include system development using NodeJS, Typescript, React, and databases such as PostgreSQL and MongoDB. I also have experience in utilizing AWS services such as CloudFormation, Lambda, SNS, SQS, and ECS for infrastructure creation and configuration.
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo (2016/2019) e trabalho como desenvolvedor web desde 2016. Nesse período, adquiri habilidades em gerenciamento de projetos, desenvolvimento em PHP (utilizando Laravel e Zend Expressive 3), criação de interfaces com HTML, CSS e Javascript (utilizando nativo, Vue.js e React) e versionamento de código utilizando GIT.
+Additionally, I have a strong academic background in Analysis and Systems Development and have been recognized for winning a hackathon in college with an application aimed at combating childhood obesity.
 
-Tenho conhecimento e experiência com: PHP (Laravel e Zend Expressive 3), Serviços AWS (S3, Lambda, CodeBuild, CodeDeploy, CodePipeline e EC2), MySQL, Microserviços, HTML, CSS, Javascript (Vue.js e React) e desenvolvimento mobile utilizando Flutter.
-
-Além das habilidades técnicas, possuo facilidade em falar em público e expressar minha opinião, costumo participar de muitos workshops e meetups para desenvolver meu conhecimento e colaborar com a comunidade de TI.
+I am always seeking challenges and opportunities to enhance my skills and contribute to project success. I am a dedicated, organized professional capable of working in teams, adopting agile methodologies such as Scrum.
 
 ### ⚒&nbsp;&nbsp;&nbsp;Ferramentas que utilizo no dia a dia
 <br><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
