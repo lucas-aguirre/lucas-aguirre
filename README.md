@@ -15,6 +15,6 @@ I am always seeking challenges and opportunities to enhance my skills and contri
 <img alt="PHP" title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Node.js" title="Node.js" src="https://img.icons8.com/color/452/nodejs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MySQL" title="MySQL" src="https://cdn.worldvectorlogo.com/logos/mysql.svg](https://www.svgrepo.com/show/303251/mysql-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="MySQL" title="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="AWS" title="AWS" src="https://twoearsonemouthnet.files.wordpress.com/2017/11/icon-cloud-aws.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
