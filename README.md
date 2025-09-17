@@ -1,16 +1,30 @@
-### 👋&nbsp;&nbsp;Hello!
+### 👋&nbsp;&nbsp;Olá!
 
-I am a backend developer with 5 years of experience in the field. Currently, I work using technologies such as PHP/NodeJS, MongoDB, GraphQL and PostgreeSQL, as well as AWS services. Throughout my career, I have had the opportunity to work on challenging projects, including the restructuring of a client integration platform and the creation of a mobile application.
+Sou Engenheiro de Software Backend Sênior com mais de 7 anos de experiência profissional, especializado em projetar, desenvolver e escalar sistemas baseados em nuvem. Minha stack principal inclui PHP, Node.js, TypeScript, PostgreSQL, MongoDB, GraphQL e serviços da AWS.
 
-My key skills include system development using NodeJS, Typescript, React, and databases such as PostgreSQL and MongoDB. I also have experience in utilizing AWS services such as CloudFormation, Lambda, SNS, SQS, and ECS for infrastructure creation and configuration.
+Ao longo da minha carreira, atuei em projetos desafiadores, como a refatoração de plataformas de integração em larga escala, otimizações de backend em arquiteturas orientadas a eventos e o desenvolvimento de sistemas internos e APIs que aumentaram a escalabilidade e a performance.
 
-Additionally, I have a strong academic background in Analysis and Systems Development and have been recognized for winning a hackathon in college with an application aimed at combating childhood obesity.
+Minhas principais competências incluem:
+- Desenvolvimento backend com PHP, Node.js e TypeScript  
+- Modelagem e otimização de bancos de dados (PostgreSQL, MySQL, MongoDB)  
+- Infraestrutura em nuvem com AWS (CloudFormation, Lambda, ECS, SNS, SQS)  
+- Arquiteturas event-driven, clean code e soluções escaláveis  
+- Colaboração em equipe, mentoria e metodologias ágeis (Scrum)  
 
-I am always seeking challenges and opportunities to enhance my skills and contribute to project success. I am a dedicated, organized professional capable of working in teams, adopting agile methodologies such as Scrum.
+Sou formado em Análise e Desenvolvimento de Sistemas e curso uma pós-graduação em Inteligência Artificial e Machine Learning. Durante minha trajetória acadêmica, fui reconhecido ao vencer um hackathon com um aplicativo voltado ao combate à obesidade infantil.
 
-ℹ️ Currently, I have no projects on my personal Github profile. All the experiences I've had professionally I've used the company's own profile. As for my freelance projects, I also used the client's own accounts.
+⚠️ **Observação:** Meu GitHub pessoal atualmente não reflete minhas principais contribuições profissionais, pois a maior parte do meu trabalho foi desenvolvida em repositórios privados das empresas. O mesmo vale para projetos freelance, hospedados nas contas dos clientes.
 
-### ⚒&nbsp;&nbsp;&nbsp;Tools I use on a daily basis
+---
+
+### ⚡ Versão Curta (Dev-Friendly)
+Engenheiro Backend | PHP · Node.js · AWS · Bancos de Dados  
+Apaixonado por clean code, arquiteturas escaláveis e resolver desafios complexos de backend.  
+> A maior parte do meu trabalho real está em repositórios privados de empresas, mas aqui compartilho estudos, experimentos e contribuições open-source.
+
+---
+
+### ⚒ Ferramentas que utilizo no dia a dia
 <br><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="PHP" title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Node.js" title="Node.js" src="https://img.icons8.com/color/452/nodejs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,3 +32,37 @@ I am always seeking challenges and opportunities to enhance my skills and contri
 <img alt="MySQL" title="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="AWS" title="AWS" src="https://twoearsonemouthnet.files.wordpress.com/2017/11/icon-cloud-aws.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 
+
+### 👋&nbsp;&nbsp;Hello!
+
+I am a Senior Backend Software Engineer with over 7 years of professional experience, specializing in designing, building, and scaling cloud-based systems. My main stack includes PHP, Node.js, TypeScript, PostgreSQL, MongoDB, GraphQL, and AWS services.
+
+Throughout my career, I have contributed to challenging projects such as the refactoring of large-scale integration platforms, backend optimizations for event-driven architectures, and the development of internal systems and APIs that improved scalability and performance.
+
+My key skills include:
+- Backend development with PHP, Node.js, and TypeScript  
+- Database design and optimization (PostgreSQL, MySQL, MongoDB)  
+- Cloud infrastructure using AWS (CloudFormation, Lambda, ECS, SNS, SQS)  
+- Event-driven architectures, clean code, and scalable solutions  
+- Team collaboration, mentoring, and Agile/Scrum practices  
+
+I hold a degree in Systems Analysis and Development and have postgraduate studies in Artificial Intelligence and Machine Learning. During my academic journey, I was recognized for winning a hackathon with an application aimed at combating childhood obesity.
+
+⚠️ **Note:** My personal GitHub currently does not reflect my professional contributions, since most of my work has been developed using private repositories from companies. The same applies to freelance projects, hosted on clients’ accounts.
+
+---
+
+### ⚡ Quick Dev-Friendly Version
+Backend Engineer | PHP · Node.js · AWS · Databases  
+Passionate about clean code, scalable architectures, and solving complex backend challenges.  
+> Most of my real-world work lives in private company repos, but here you’ll find my experiments, learning projects, and open-source contributions.
+
+---
+
+### ⚒ Tools I use daily
+<br><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="PHP" title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Node.js" title="Node.js" src="https://img.icons8.com/color/452/nodejs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="MySQL" title="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="AWS" title="AWS" src="https://twoearsonemouthnet.files.wordpress.com/2017/11/icon-cloud-aws.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
