@@ -44,8 +44,4 @@ Atualmente tenho focado bastante em engenharia de IA e sistemas agênticos. Gost
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-aguirre&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&locale=pt-br" alt="Estatísticas do GitHub de Lucas" />
-</p>
-
-*Curitiba, Brasil 🇧🇷 | Português nativo | Inglês profissional*
+*Curitiba, Brasil 🇧🇷 | Português nativo | Inglês fluente | Espanhol básico*
