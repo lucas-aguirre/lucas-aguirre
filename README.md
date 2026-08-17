@@ -44,8 +44,4 @@ Lately, I've been dedicating my time to AI engineering and agentic systems. I en
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-aguirre&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" alt="Lucas's GitHub Stats" />
-</p>
-
-*Based in Curitiba, Brazil 🇧🇷 | Portuguese (native) | English (professional)*
+*Based in Curitiba, Brazil 🇧🇷 | Portuguese (native) | English (fluent) | Spanish (basic)*
