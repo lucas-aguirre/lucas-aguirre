@@ -1,68 +1,71 @@
-### 👋&nbsp;&nbsp;Olá!
+# Hi, I'm Lucas Aguirre 👋
 
-Sou Engenheiro de Software Backend Sênior com mais de 7 anos de experiência profissional, especializado em projetar, desenvolver e escalar sistemas baseados em nuvem. Minha stack principal inclui PHP, Node.js, TypeScript, PostgreSQL, MongoDB, GraphQL e serviços da AWS.
+**Tech Lead · Backend Architecture · Cloud & AI Engineering**
 
-Ao longo da minha carreira, atuei em projetos desafiadores, como a refatoração de plataformas de integração em larga escala, otimizações de backend em arquiteturas orientadas a eventos e o desenvolvimento de sistemas internos e APIs que aumentaram a escalabilidade e a performance.
+I am a Tech Lead and Senior Backend Engineer with 8+ years of experience designing, modernizing, and scaling business-critical systems. My background spans backend architecture, distributed and event-driven systems, cloud platforms, enterprise integrations, legacy modernization, engineering governance, and technical leadership.
 
-Minhas principais competências incluem:
-- Desenvolvimento backend com PHP, Node.js e TypeScript  
-- Modelagem e otimização de bancos de dados (PostgreSQL, MySQL, MongoDB)  
-- Infraestrutura em nuvem com AWS (CloudFormation, Lambda, ECS, SNS, SQS)  
-- Arquiteturas event-driven, clean code e soluções escaláveis  
-- Colaboração em equipe, mentoria e metodologias ágeis (Scrum)  
+I am now applying that foundation to **AI engineering and agentic systems**: learning how LLM-based systems work internally and building the evaluation, security, observability, and operational controls required to use them responsibly in production.
 
-Sou formado em Análise e Desenvolvimento de Sistemas e curso uma pós-graduação em Inteligência Artificial e Machine Learning. Durante minha trajetória acadêmica, fui reconhecido ao vencer um hackathon com um aplicativo voltado ao combate à obesidade infantil.
+[🇧🇷 Português](./README.pt-BR.md) · [💼 LinkedIn](https://www.linkedin.com/in/lucas-de-melo-aguirre/) · [✉️ Email](mailto:lucasdemeloaguirre@gmail.com)
 
-⚠️ **Observação:** Meu GitHub pessoal atualmente não reflete minhas principais contribuições profissionais, pois a maior parte do meu trabalho foi desenvolvida em repositórios privados das empresas. O mesmo vale para projetos freelance, hospedados nas contas dos clientes.
+## What I bring
+
+- **Technical leadership:** architecture decisions, engineering standards, code review, risk assessment, planning, mentoring, and cross-functional alignment.
+- **Backend and modernization:** PHP/Laravel, Node.js/TypeScript, APIs, integrations, legacy evolution, DDD, and hexagonal architecture.
+- **Distributed and cloud systems:** AWS, Azure, serverless, event-driven workflows, CI/CD, observability, and production reliability.
+- **Data and search:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, indexing strategies, custom analyzers, and synonym-based search.
+- **AI-enabled engineering:** prompt engineering, agent-assisted workflows, documentation automation, developer productivity, and applied AI systems.
+
+## Selected experience
+
+- Leading technical direction and backend modernization for an enterprise irrigation-management ecosystem spanning legacy systems, web, mobile, APIs, data collectors, Azure DevOps, and cloud infrastructure.
+- Refactored a critical job-based processing platform into a more scalable event-driven architecture and improved reporting, compliance, and Elasticsearch capabilities.
+- Designed backend integration platforms for ticketing and high-volume event operations using PHP, MongoDB, Hasura, and AWS.
+- Modernized authentication and decomposed monolithic AWS Lambda functions into modular services using Node.js, Kotlin, PostgreSQL, and infrastructure as code.
+- Built and operated backend services supporting customer portals and IBM Watson Assistant integrations, with AWS Lambda and New Relic observability.
+
+## Building in public
+
+My public work is organized around one question:
+
+> *How do we turn probabilistic models into software systems that are reliable, secure, observable, economically controlled, and useful to the business?*
+
+Current direction:
+
+1. **AI Engineering Roadmap Atlas** — an open, visual, multilingual roadmap for LLM internals, RAG, agents, MCP, evals, LLMOps, security, and AI-native software engineering.
+2. **AI Foundations Lab** — reproducible experiments for tokenization, embeddings, attention, inference, retrieval, and agent loops without hiding the mechanisms behind frameworks.
+3. **Knowledge & Research Engine** — a measured RAG and context-engineering system with retrieval benchmarks, evaluation datasets, tracing, failure analysis, and threat modeling.
+4. **Agentic Dev Studio** — a long-running flagship for tools, state, human approval, sandboxing, policies, telemetry, and AI-assisted software delivery.
+
+Repositories and live demos will be linked here as each release meets its quality gate. I prefer a small number of well-documented systems over a collection of disconnected demos.
+
+## Core technologies
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Current focus
+
+- Completing postgraduate studies in **Software Engineering in Applied AI**.
+- Deepening Python, ML/LLM fundamentals, retrieval, agents, evals, AI security, and LLMOps.
+- Publishing code, benchmarks, architecture decisions, and honest failure reports.
+- Growing from Tech Lead / Senior Backend Engineer toward AI Technical Lead and AI Platform Engineering.
+
+## Principles
+
+- Understand the mechanism before adopting the framework.
+- Measure behavior before claiming quality.
+- Keep humans in control of consequential actions.
+- Treat prompts as input, not as a security boundary.
+- Publish evidence, trade-offs, and limitations—not manufactured expertise.
+
+<br>
 
 ---
 
-### ⚡ Versão Curta (Dev-Friendly)
-Engenheiro Backend | PHP · Node.js · AWS · Bancos de Dados  
-Apaixonado por clean code, arquiteturas escaláveis e resolver desafios complexos de backend.  
-> A maior parte do meu trabalho real está em repositórios privados de empresas, mas aqui compartilho estudos, experimentos e contribuições open-source.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-aguirre&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" alt="Lucas's GitHub Stats" />
+</p>
 
 ---
 
-### ⚒ Ferramentas que utilizo no dia a dia
-<br><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="PHP" title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Node.js" title="Node.js" src="https://img.icons8.com/color/452/nodejs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MySQL" title="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="AWS" title="AWS" src="https://twoearsonemouthnet.files.wordpress.com/2017/11/icon-cloud-aws.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-
-
-### 👋&nbsp;&nbsp;Hello!
-
-I am a Senior Backend Software Engineer with over 7 years of professional experience, specializing in designing, building, and scaling cloud-based systems. My main stack includes PHP, Node.js, TypeScript, PostgreSQL, MongoDB, GraphQL, and AWS services.
-
-Throughout my career, I have contributed to challenging projects such as the refactoring of large-scale integration platforms, backend optimizations for event-driven architectures, and the development of internal systems and APIs that improved scalability and performance.
-
-My key skills include:
-- Backend development with PHP, Node.js, and TypeScript  
-- Database design and optimization (PostgreSQL, MySQL, MongoDB)  
-- Cloud infrastructure using AWS (CloudFormation, Lambda, ECS, SNS, SQS)  
-- Event-driven architectures, clean code, and scalable solutions  
-- Team collaboration, mentoring, and Agile/Scrum practices  
-
-I hold a degree in Systems Analysis and Development and have postgraduate studies in Artificial Intelligence and Machine Learning. During my academic journey, I was recognized for winning a hackathon with an application aimed at combating childhood obesity.
-
-⚠️ **Note:** My personal GitHub currently does not reflect my professional contributions, since most of my work has been developed using private repositories from companies. The same applies to freelance projects, hosted on clients’ accounts.
-
----
-
-### ⚡ Quick Dev-Friendly Version
-Backend Engineer | PHP · Node.js · AWS · Databases  
-Passionate about clean code, scalable architectures, and solving complex backend challenges.  
-> Most of my real-world work lives in private company repos, but here you’ll find my experiments, learning projects, and open-source contributions.
-
----
-
-### ⚒ Tools I use daily
-<br><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="PHP" title="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Node.js" title="Node.js" src="https://img.icons8.com/color/452/nodejs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MySQL" title="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="AWS" title="AWS" src="https://twoearsonemouthnet.files.wordpress.com/2017/11/icon-cloud-aws.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+*Based in Curitiba, Brazil 🇧🇷 · Portuguese (native) · English (professional working proficiency)*
